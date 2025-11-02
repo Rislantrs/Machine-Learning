@@ -12,7 +12,9 @@ Dengan model ini, tim retensi dapat secara proaktif menghubungi pelanggan yang "
 ## 2. Sumber Data
 
 Proyek ini menggunakan dataset `telco.csv` yang berisi **7.043 data pelanggan**.
+
 IBM Team. (2024). Telco customer churn (11.1.3+) [Data set]. Kaggle. https://doi.org/10.34740/KAGGLE/DSV/8360350
+
 Dataset ini mencakup berbagai fitur, di antaranya:
 * **Data Demografis:** (Gender, Age, Senior Citizen, Married, Dependents)
 * **Layanan yang Digunakan:** (Phone Service, Internet Service, Online Security, Streaming TV, dll.)
