@@ -1,0 +1,12 @@
+torch
+diffusers
+transformers
+accelerate
+safetensors
+streamlit
+streamlit_drawable_canvas==0.8.0
+Pillow
+numpy
+matplotlib
+pyngrok
+huggingface_hub
